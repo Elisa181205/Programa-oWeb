@@ -1,0 +1,111 @@
+body {
+    background-color: #f0f8ff; 
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+}
+
+.form-control {
+    border: 2px solid #c4c4c4;
+    border-radius: 5px;
+    padding: 0.5rem;
+    font-size: 1rem;
+    transition: border-color 0.3s;
+    width: 100%; 
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    outline: none;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Hover no botão de submit */
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Espaçamento do campo */
+.mb-3 {
+    margin-bottom: 1rem;
+}
+
+/* Estilo para label */
+.form-label {
+    font-weight: bold;
+    color: #555;
+    font-size: 1rem;
+    margin-bottom: 2%;
+}
+
+/* Media queries para responsividade */
+@media (max-width: 768px) {
+    .container {
+        padding: 1.5rem; /* Diminui o padding em telas menores */
+    }
+
+    h1 {
+        font-size: 1.5rem; /* Reduz o tamanho da fonte do título */
+    }
+
+    .form-control,
+    .btn-primary {
+        font-size: 0.9rem; /* Ajusta o tamanho da fonte */
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.2rem; /* Tamanho ainda menor para telas muito pequenas */
+    }
+
+    .btn-primary {
+        width: 100%; /* Botão ocupa 100% da largura em telas pequenas */
+    }
+}
+/* Título do formulário */
+title {
+    color: #333;
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+    font-weight: bold; /* Define o título como negrito */
+    text-transform: uppercase; /* Transforma o texto para maiúsculas */
+    letter-spacing: 1px; /* Espaçamento entre letras */
+    border-bottom: 2px solid #007bff; /* Adiciona uma borda inferior */
+    padding-bottom: 0.5rem; /* Espaço abaixo do texto */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave */
+    background-color: rgba(0, 123, 255, 0.1); /* Fundo leve para destacar */
+    border-radius: 5px; /* Arredonda os cantos do fundo */
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>Pioneiro e enérgico, Áries é o primeiro signo do zodíaco e tende a liderar em todas as suas empreitadas.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>Persistente e determinado, Touro é o signo da estabilidade, com grande apreço pelo conforto e pelo material.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>Comunicativo e versátil, Gêmeos é o signo da troca de ideias e do intelecto, com uma personalidade curiosa e mutável.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>Emocional e protetor, Câncer é o signo ligado à família e ao lar, com uma natureza sensível e cuidadosa.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>Orgulhoso e generoso, Leão é o signo do brilho pessoal e da autoconfiança, sempre em busca de ser o centro das atenções.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>Detalhista e prático, Virgem é o signo que se dedica ao trabalho com perfeccionismo e analisa tudo de forma crítica.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>Equilibrado e diplomático, Libra é o signo das parcerias, sempre em busca de harmonia nas relações e no ambiente.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>Intenso e misterioso, Escorpião é o signo da transformação, com grande capacidade de regeneração e profundidade emocional.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>Aventureiro e otimista, Sagitário é o signo da expansão, sempre em busca de novas experiências e conhecimentos.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>20/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Ambicioso e disciplinado, Capricórnio é o signo do trabalho árduo e da conquista de metas, com foco no longo prazo.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>21/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>Inovador e independente, Aquário é o signo da originalidade, sempre voltado para o futuro e para as mudanças sociais.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>Sensível e imaginativo, Peixes é o signo da empatia e da espiritualidade, sempre em contato com suas emoções profundas.</descricao>
+  </signo>
+</signos>
